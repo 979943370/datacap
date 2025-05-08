@@ -23,7 +23,7 @@ git clone https://github.com/devlive-community/datacap.git
 
 | 环境                          | 版本            | 必需 |
 |:----------------------------|:--------------|:---|
-| `JDK`                       | `1.8` \| `11` | 必须 |
+| `JDK`                       |  `11` | 必须 |
 | `Maven`                     | >= 3.5        | 可选 |
 | `IDEA` \| `Eclipse` \| `其他` | 任意版本          | 必须 |
 
